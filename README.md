@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - R-squared (R^2): 0.7912
 The model successfully identified key features contributing to the happiness index, providing valuable insights into factors influencing national happiness.
 
-**Code:** 
+**Code:** [Jupiter Notebook File](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/PredictingHappinessIndexUsingML.ipynb)
 
 ## 3. Data Analysis in Interdisciplinary Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
