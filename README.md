@@ -8,6 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 1. Introduction
 2. Machine Learning Projects
     - Machine Learning Approach to Predicting Countries' Happiness Index
+    - Detecting Objects in Autonomous Driving
 3. Data Analysis in Interdisciplinary Research Projects
     - Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
@@ -39,9 +40,9 @@ The model successfully identified key features contributing to the happiness ind
 
 **Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 
-**Results:** This project is still under work. Results will be available in December.
+**Results:** This project is still under work. Results will be available in December 2024.
 
-**Code:** This project is still under work. Code will be available in December.
+**Code:** This project is still under work. Code will be available in December 2024.
 
 ## 3. Data Analysis in Interdisciplinary Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
