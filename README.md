@@ -29,6 +29,20 @@ The model successfully identified key features contributing to the happiness ind
 
 **Code:** [Jupiter Notebook File](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/PredictingHappinessIndexUsingML.ipynb)
 
+### Detecting Objects in Autonomous Driving
+**Goal:** To develop a 3D object detection system that enhances the safety and accuracy of autonomous vehicles by identifying and classifying objects in real-time.
+
+**Description:** This project with Latitude AI aims to developed a 3D object detection system for autonomous driving using convolutional neural networks
+(CNNs) and transfer learning to classify objects from images. Innovated by converting perspective images to bird's eye view (BEV) and incorporating depth information to enhance detection accuracy. This project advanced vehicle safety and autonomy by leveraging deep learning techniques in computer vision.
+
+**Skills:** Computer Vision, Deep Learning, Convolutional Neural Networks, Classification, Data Cleaning, 
+
+**Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+**Results:** This project is still under work. Results will be available in December.
+
+**Code:** This project is still under work. Code will be available in December.
+
 ## 3. Data Analysis in Interdisciplinary Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
