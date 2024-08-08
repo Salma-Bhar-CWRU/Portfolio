@@ -19,9 +19,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ### Machine Learning Approach to Predicting Countries' Happiness Index
 **Goal:** To develop a machine learning model that accurately predicts the happiness index of countries based on various socio-economic and political factors.
 
-**Description:** This project aims to predict the happiness index, also known as the Life Ladder score, of countries using data from the World Happiness Report. The dataset includes variables such as GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, perceptions of corruption, and several other factors. The project involves data preprocessing, exploratory data analysis, feature selection, model training, and evaluation to create a robust prediction model.
+**Description:** This project aims to predict the happiness index, also known as the Life Ladder score, of countries using data from the World Happiness Report. The dataset includes variables such as GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, perceptions of corruption, and several other factors. I experimented with additional models such as Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor. Then, I performed hyperparameter tuning using cross-validation to find the best set of hyperparameters. Additionally, I conducted feature selection and engineering to identify and include relevant features that improved model performance. Finally, I analyzed residuals and iterated on model improvements.
 
-**Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Regression Analysis, Model Selection, Hyperparameter Tuning, Model Evaluation, Data Visualization.
+**Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Regression Analysis, Model Selection, Hyperparameter Tuning, Model Evaluation, Data Visualization, Decision Trees, Random Forest, Gradient Boosting
 
 **Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 
