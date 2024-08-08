@@ -54,4 +54,4 @@ Kristopher O. Davis, University of Central Florida <br>
 
 **Presentations:** Sponsored by CWRU to present at the SUNY Buffalo Undergraduate Research Conference in July 2023. Presented a poster as a team at the Fall 2023 intersections at CWRU.
 
-**Poster:** [Fall 2023 Intersections Poster](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/Intersections%20December%202023%20-%20Salma%20Bhar%20Marina%20Kamperai%20Shahib%20Prokhor.pdf)
+**Poster:** [R Visualization Plots Compilation](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/SIPS%20Plots%20-%20Salma%20Bhar.pdf), [Fall 2023 Intersections Poster](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/Intersections%20December%202023%20-%20Salma%20Bhar%20Marina%20Kamperai%20Shahib%20Prokhor.pdf)
