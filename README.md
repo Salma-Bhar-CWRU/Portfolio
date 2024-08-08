@@ -2,7 +2,7 @@
 ## 1. Introduction
 Hello! My name is Salma Bhar (she/her). I am an international student from Tunisia and a third-year pursuing a B.S. in Computer Science with an AI concentration and a Minor in Astronomy at Case Western Reserve University, Cleveland OH. I also studied abroad at Universidad Carlos III in Madrid, Spain and I am a graduate of UWC ISAK Japan which is part of the United World Colleges movement.
 
-This is a repository to showcase skills, share projects and track my progress in Data Science and AI/ML related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Science and AI/ML related topics. You can also find my resume [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/Salma%20Bhar.pdf).
 
 ## Table of Contents
 1. Introduction
