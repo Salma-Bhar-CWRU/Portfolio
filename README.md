@@ -11,9 +11,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 1. Introduction
 2. Machine Learning Projects
-  - Machine Learning Approach to Predicting Countries' Happiness Index
+    - Machine Learning Approach to Predicting Countries' Happiness Index
 3. Data Analysis in Interdisciplinary Research Projects
-  - Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
+    - Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
 ## 2. Machine Learning Projects
 ### Machine Learning Approach to Predicting Countries' Happiness Index
@@ -37,10 +37,12 @@ The model successfully identified key features contributing to the happiness ind
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
 **Undergraduate Researchers:** <br>
-**Salma Bhar, B.S. Computer Science, CWRU** <br>
+Salma Bhar, B.S. Computer Science, CWRU <br>
 Marina Kamperai, B.S. Chemical Engineering. CWRU <br>
 Shahib Prokhor, B.S. Biomedical Engineering, CWRU <br>
+<br>
 **Project Mentor:** Dr. Ina Martin, Materials Science and Engineering, CWRU <br>
+<br>
 **Partners and project members:** <br>
 Dr. Laura Bruckman, Materials Science and Engineering, CWRU <br>
 Mirra Rasmussen, Graduate Student, Materials Science and Engineering, CWRU <br>
