@@ -1,10 +1,6 @@
 # Salma Bhar Portfolio
 ## 1. Introduction
-Hello! My name is Salma Bhar (she/her). I am an international student from Tunisia and a third-year pursuing a B.S. in Computer Science with an AI concentration and a Minor in Astronomy at Case Western Reserve University, Cleveland OH. 
-
-I also studied abroad at Universidad Carlos III in Madrid, Spain and I am a graduate of UWC ISAK Japan which is part of the United World Colleges movement.
-
-I am exploring experiences in AI/ML, Data Analysis, and Technical Product Management.
+Hello! My name is Salma Bhar (she/her). I am an international student from Tunisia and a third-year pursuing a B.S. in Computer Science with an AI concentration and a Minor in Astronomy at Case Western Reserve University, Cleveland OH. I also studied abroad at Universidad Carlos III in Madrid, Spain and I am a graduate of UWC ISAK Japan which is part of the United World Colleges movement.
 
 This is a repository to showcase skills, share projects and track my progress in Data Science and AI/ML related topics.
 
