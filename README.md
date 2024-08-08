@@ -11,9 +11,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 1. Introduction
 2. Machine Learning Projects
-  -  Machine Learning Approach to Predicting Countries' Happiness Index
+  - Machine Learning Approach to Predicting Countries' Happiness Index
 3. Data Analysis in Interdisciplinary Research Projects
-  -  Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
+  - Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
 ## 2. Machine Learning Projects
 ### Machine Learning Approach to Predicting Countries' Happiness Index
@@ -36,16 +36,16 @@ The model successfully identified key features contributing to the happiness ind
 ## 3. Data Analysis in Interdisciplinary Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
-**Undergraduate Researchers:**
-**Salma Bhar, B.S. Computer Science, CWRU**
-Marina Kamperai, B.S. Chemical Engineering. CWRU
-Shahib Prokhor, B.S. Biomedical Engineering, CWRU
-**Project Mentor:** Dr. Ina Martin, Materials Science and Engineering, CWRU
-**Partners and project members:**
-Dr. Laura Bruckman, Materials Science and Engineering, CWRU
-Mirra Rasmussen, Graduate Student, Materials Science and Engineering, CWRU
-Mariana Bertoni,  Arizona State University
-Kristopher O. Davis, University of Central Florida
+**Undergraduate Researchers:** <br>
+**Salma Bhar, B.S. Computer Science, CWRU** <br>
+Marina Kamperai, B.S. Chemical Engineering. CWRU <br>
+Shahib Prokhor, B.S. Biomedical Engineering, CWRU <br>
+**Project Mentor:** Dr. Ina Martin, Materials Science and Engineering, CWRU <br>
+**Partners and project members:** <br>
+Dr. Laura Bruckman, Materials Science and Engineering, CWRU <br>
+Mirra Rasmussen, Graduate Student, Materials Science and Engineering, CWRU <br>
+Mariana Bertoni,  Arizona State University <br>
+Kristopher O. Davis, University of Central Florida <br>
 
 **Abstract:** Advanced crystalline silicon photovoltaic (PV) cell architectures such as silicon heterojunction cells (SHJ) mitigate energy conversion losses present in traditional architectures. However, the use of new materials and processes introduces the potential for new failure modes. The objective of this project is to apply different accelerated aging exposures with combined stressors including light, temperature, to different cell architectures; currently, this includes PERC, PERT and, SHJ architectures. In the near future, tunnel-oxide passivated contact (TOPCon) cells will also be included. We will focus on identifying degradation modes due to variations in the surface layers, including the Si passivation materials, and screen printed contacts, both known sources of solar cell degradation. The research methodology includes an initial performance assessment of the PV cells, exposure to accelerated aging conditions, and subsequent periodic re-characterization. The changes in devices are measured through key performance parameters, such as Current-Voltage characterization (I-V), Suns Voltage (Suns-Voc), and Quantum Efficiency (QE), are measured and recorded. To analyze and visualize the degradation data, we employ the R programming language and associated packages, including ggplot, dplyr, and tidyverse. These tools help extract valuable features from the I-V, QE, and Suns-Voc data, allowing us to gain a comprehensive understanding of the degradation effects on each type of solar cell and the underlying mechanisms. The data-driven models concluded from this research project will contribute to better insights about the performance of photovoltaic cells. In other words, we can conclude better ways to predict the lifetime of solar cells, and ultimately contribute to improved design. The conclusions from this research could also be applied to larger areas in the field of photovoltaic cells and contribute to more sustainable practices in energy production. 
 
