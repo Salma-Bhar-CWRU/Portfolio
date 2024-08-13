@@ -2,7 +2,7 @@
 ## 1. Introduction
 Hello! My name is Salma Bhar (she/her). I am an international student from Tunisia and a third-year pursuing a B.S. in Computer Science with an AI concentration and a Minor in Astronomy at Case Western Reserve University, Cleveland OH. I also studied abroad at Universidad Carlos III in Madrid, Spain and I am a graduate of UWC ISAK Japan which is part of the United World Colleges movement.
 
-This is a repository to showcase skills, share projects and track my progress in Data Science and AI/ML related topics. You can also find my resume [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/Salma%20Bhar.pdf)](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/Salma%20Bhar.pdf).
+This is a repository to showcase skills, share projects and track my progress in Data Science and AI/ML related topics. You can also find my resume [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/Salma%20Bhar.pdf).
 
 ## Table of Contents
 1. Introduction
@@ -69,4 +69,4 @@ Kristopher O. Davis, University of Central Florida <br>
 
 **Presentations:** Sponsored by CWRU to present at the SUNY Buffalo Undergraduate Research Conference in July 2023. Presented a poster as a team at the Fall 2023 intersections at CWRU.
 
-**Poster:** [R Visualization Plots Compilation](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/SIPS%20Plots%20-%20Salma%20Bhar.pdf), [Fall 2023 Intersections Poster](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/Intersections%20December%202023%20-%20Salma%20Bhar%20Marina%20Kamperai%20Shahib%20Prokhor.pdf)
+**Poster:** [Fall 2023 Intersections Poster](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/Intersections%20December%202023%20-%20Salma%20Bhar%20Marina%20Kamperai%20Shahib%20Prokhor.pdf)
