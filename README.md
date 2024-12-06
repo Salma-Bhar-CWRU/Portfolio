@@ -32,9 +32,7 @@ The model successfully identified key features contributing to the happiness ind
 
 ### Detecting Objects in Autonomous Driving
 **Goal:** To develop a 3D object detection system that enhances the safety and accuracy of autonomous vehicles by identifying and classifying objects in real-time.
-
-**Description:** This project with Latitude AI aims to developed a 3D object detection system for autonomous driving using convolutional neural networks
-(CNNs) and transfer learning to classify objects from images. Innovated by converting perspective images to bird's eye view (BEV) and incorporating depth information to enhance detection accuracy. This project advanced vehicle safety and autonomy by leveraging deep learning techniques in computer vision.
+ **Description:** This project with Latitude AI aims to developed a 3D object detection system for autonomous driving. We utilized Detectron2 and DepthAnything to process over 34,000 samples from the nuScenes dataset. We implemented a method enhancing 2D detections with depth to approximate a 3D scene understanding. Delivered a comprehensive project report and a functional model for self-driving car safety. This project advanced vehicle safety and autonomy by leveraging machine learning and data science.
 
 **Skills:** Computer Vision, Deep Learning, Convolutional Neural Networks, Classification, Data Cleaning, 
 
