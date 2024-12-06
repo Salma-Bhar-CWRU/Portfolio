@@ -42,7 +42,7 @@ The model successfully identified key features contributing to the happiness ind
 
 **Results:** This project is still under work. Results will be available in December 2024.
 
-**Code:** This project is still under work. Code will be available in December 2024.
+**Code:** Project Github repo can be found [here.](https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI)
 
 ## 3. Data Analysis in Interdisciplinary Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
