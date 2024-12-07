@@ -4,6 +4,8 @@ Hello! My name is Salma Bhar (she/her). I am an international student from Tunis
 
 This is a repository to showcase skills, share projects and track my progress in Data Science and AI/ML related topics. You can also find my resume [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/Salma%20Bhar.pdf).
 
+My LinkedIn: https://www.linkedin.com/in/salmabhar/
+
 ## Table of Contents
 1. Introduction
 2. Machine Learning Projects
