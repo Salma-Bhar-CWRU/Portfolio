@@ -42,10 +42,9 @@ The model successfully identified key features contributing to the happiness ind
 **Technology:** Python,nuScenes, Detectron2, DepthAnything, Matplotlib, Numpy, Scipy.
 
 **Potential Next Steps:**
-    - Expanding 3D detection on more categories (pedestrians, buses, traffic lights, etc…)
-    - If enough computational resources are available, revisit our initial approach i.e. a FastBEV-based approach     
-    - Expanding the method on multiple cameras instead of a single camera
-    - Optimize depth estimation models for faster and more accurate depth predictions
+  - Expanding 3D detection on more categories (pedestrians, buses, traffic lights, etc…)
+  - If enough computational resources are available, revisit our initial approach i.e. a FastBEV-based approach 
+  - Expanding the method on multiple cameras instead of a single camera
 
 **Code:** Project Github repo can be found [here.](https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI)
 
