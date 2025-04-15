@@ -11,13 +11,14 @@ My LinkedIn: https://www.linkedin.com/in/salmabhar/
 2. Machine Learning Projects
     - Machine Learning Approach to Predicting Countries' Happiness Index
     - Detecting Objects in Autonomous Driving
-3. Data Analysis in Interdisciplinary Research Projects
-    - Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
+    - Algorithmic Justice League Equitable AI for Dermatology
+3. Data Science in Research Projects
+    - A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
+4. Software Engineering
+    - Snack Overflow
 
 ## 2. Machine Learning Projects
 ### Machine Learning Approach to Predicting Countries' Happiness Index
-**Goal:** To develop a machine learning model that accurately predicts the happiness index of countries based on various socio-economic and political factors.
-
 **Description:** This project aims to predict the happiness index, also known as the Life Ladder score, of countries using data from the World Happiness Report. The dataset includes variables such as GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, perceptions of corruption, and several other factors. I experimented with additional models such as Decision Tree Regressor, Random Forest Regressor, and Gradient Boosting Regressor. Then, I performed hyperparameter tuning using cross-validation to find the best set of hyperparameters. Additionally, I conducted feature selection and engineering to identify and include relevant features that improved model performance. Finally, I analyzed residuals and iterated on model improvements.
 
 **Skills:** Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Regression Analysis, Model Selection, Hyperparameter Tuning, Model Evaluation, Data Visualization, Decision Trees, Random Forest, Gradient Boosting
@@ -33,9 +34,7 @@ The model successfully identified key features contributing to the happiness ind
 **Code:** [Jupiter Notebook File](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/PredictingHappinessIndexUsingML.ipynb)
 
 ### Detecting Objects in Autonomous Driving
-**Goal:** To develop a 3D object detection system that enhances the safety and accuracy of autonomous vehicles by identifying and classifying objects in real-time.
-
- **Description:** This project with Latitude AI aims to developed a 3D object detection system for autonomous driving. We utilized Detectron2 and DepthAnything to process over 34,000 samples from the nuScenes dataset. We implemented a method enhancing 2D detections with depth to approximate a 3D scene understanding. Delivered a comprehensive project report and a functional model for self-driving car safety. This project advanced vehicle safety and autonomy by leveraging machine learning and data science.
+**Description:** This project with Latitude AI aims to developed a 3D object detection system for autonomous driving. We utilized Detectron2 and DepthAnything to process over 34,000 samples from the nuScenes dataset. We implemented a method enhancing 2D detections with depth to approximate a 3D scene understanding. Delivered a comprehensive project report and a functional model for self-driving car safety. This project advanced vehicle safety and autonomy by leveraging machine learning and data science.
 
 **Skills:** Team Work, Project Management, Depth estimation, Data Visualizaion, Data processing. 
 
@@ -48,7 +47,20 @@ The model successfully identified key features contributing to the happiness ind
 
 **Code:** Project Github repo can be found [here.](https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI)
 
-## 3. Data Analysis in Interdisciplinary Research Projects
+### Algorithmic Justice League Equitable AI for Dermatology
+**Description:** Built inclusive ML models for dermatology image classification as part of the Break Through Tech AI program and the Algorithmic Justice League x Kaggle Challenge. Aimed to improve diagnosis accuracy across diverse skin tones. </br>
+ 
+**Project Highlights:** </br>
+- Selected EfficientNetB3 as final model with ~94% test accuracy and macro F1 of 0.96.
+- Addressed algorithmic fairness using stratified validation and data balancing techniques.
+- Collaborated on CNN, ViT, and ResNet architectures to benchmark model performance.
+  
+**Skills:** Deep Learning, Fairness in AI, Vision Transformers, EDA </br>
+**Tech:** Python, TensorFlow, Keras, EfficientNet, ResNet, Kaggle </br>
+
+**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+
+## 3. Data Analysis in Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
 **Undergraduate Researchers:** <br>
@@ -75,4 +87,17 @@ Kristopher O. Davis, University of Central Florida <br>
 
 **Poster:** [Fall 2023 Intersections Poster](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/Intersections%20December%202023%20-%20Salma%20Bhar%20Marina%20Kamperai%20Shahib%20Prokhor.pdf)
 </br>
-To be added: Snack Overflow, AJL Team Selenium
+
+## 4. Software Engineering
+### Snack Overflow
+**Description:** A full-stack snack management system for workplaces, where employees can order, upvote, and track snacks, while admins monitor inventory and employee trends. Features include authentication, snack ordering limits, inventory tracking, and real-time statistics. </br>
+ 
+**Project Highlights:** </br>
+- Built using React (frontend) and Node.js/Express with MySQL (backend).
+- Daily snack limit system, profile dashboards, and a dynamic role-based sidebar.
+- Real-time inventory updates and smart snack control based on availability.
+  
+**Skills:** Full-Stack Dev, REST APIs, Authentication, Role-based UI </br>
+**Tech:** React, Node.js, Express, MySQL, JavaScript, HTML/CSS </br>
+
+**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
