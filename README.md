@@ -100,4 +100,4 @@ Kristopher O. Davis, University of Central Florida <br>
 **Skills:** Full-Stack Dev, REST APIs, Authentication, Role-based UI </br>
 **Tech:** React, Node.js, Express, MySQL, JavaScript, HTML/CSS </br>
 
-**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+**Code:** Project Github repo can be found [here](https://github.com/Salma-Bhar-CWRU/Snack-Overflow/tree/main)
