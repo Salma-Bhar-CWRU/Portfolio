@@ -85,9 +85,6 @@ Kristopher O. Davis, University of Central Florida <br>
 
 **Presentations:** Sponsored by CWRU to present at the SUNY Buffalo Undergraduate Research Conference in July 2023. Presented a poster as a team at the Fall 2023 intersections at CWRU.
 
-**Poster:** [Fall 2023 Intersections Poster](https://github.com/Salma-Bhar-CWRU/Salma-Bhar-Portfolio/blob/main/Intersections%20December%202023%20-%20Salma%20Bhar%20Marina%20Kamperai%20Shahib%20Prokhor.pdf)
-</br>
-
 ## 4. Software Engineering
 ### Snack Overflow
 **Description:** A full-stack snack management system for workplaces, where employees can order, upvote, and track snacks, while admins monitor inventory and employee trends. Features include authentication, snack ordering limits, inventory tracking, and real-time statistics. </br>
