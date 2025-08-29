@@ -66,7 +66,7 @@ The model successfully identified key features contributing to the happiness ind
 - QRL: fewer tunable parameters, stable convergence trends, parameter-efficient but with simulation overhead.
 - Showed strong promise for data-efficient decision-making despite current hardware limitations.
 
-**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+**Code:** Project Github repo can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
 
 ### Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
 **Description:** Built inclusive ML models for dermatology image classification as part of the Break Through Tech AI program and the Algorithmic Justice League x Kaggle Challenge. Aimed to improve diagnosis accuracy across diverse skin tones. </br>
