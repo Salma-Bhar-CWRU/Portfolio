@@ -12,6 +12,7 @@ My LinkedIn: https://www.linkedin.com/in/salmabhar/
     - Machine Learning Approach to Predicting Countries' Happiness Index
     - Detecting Objects in Autonomous Driving
     - Algorithmic Justice League Equitable AI for Dermatology
+    - Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
 3. Data Science in Research Projects
     - A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 4. Software Engineering
@@ -48,6 +49,26 @@ The model successfully identified key features contributing to the happiness ind
 **Code:** Project Github repo can be found [here.](https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI)
 
 ### Algorithmic Justice League Equitable AI for Dermatology
+**Description:** This project explores Quantum Reinforcement Learning (QRL) by applying quantum variational circuits to the Multi-Armed Bandit (MAB) problem and extending to full reinforcement learning tasks such as CartPole and LunarLander. The goal was to investigate whether quantum methods can improve exploration efficiency, reduce trainable parameters, and achieve more stable convergence compared to classical reinforcement learning (RL). </br>
+ 
+**Project Highlights:** </br>
+- Implemented ε-greedy classical RL for baseline performance on MAB.
+- Designed Variational Quantum Circuit (VQC) agents (4–8 qubits) for CartPole and LunarLander.
+- Compared VQC-DQN (quantum policy + classical updates) and Hybrid A2C (quantum actor + classical critic) frameworks.
+- Demonstrated that QRL reduced trainable parameters by up to 90% while maintaining comparable performance to classical RL.
+- Highlighted interdisciplinary impacts in physics (entropy reduction via superposition), engineering (decision-making under uncertainty), and computer science (compact policy representations).
+  
+**Skills:** Quantum Computing, Reinforcement Learning, Variational Quantum Circuits (VQC), Qiskit, Classical vs Quantum RL, Data Analysis, Interdisciplinary Research </br>
+**Tech:** Python, Qiskit, NumPy, SciPy, Matplotlib </br>
+
+**Results:** 
+- Classical RL (ε-greedy): reliable convergence, but slower and parameter-heavy.
+- QRL: fewer tunable parameters, stable convergence trends, parameter-efficient but with simulation overhead.
+- Showed strong promise for data-efficient decision-making despite current hardware limitations.
+
+**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+
+### Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
 **Description:** Built inclusive ML models for dermatology image classification as part of the Break Through Tech AI program and the Algorithmic Justice League x Kaggle Challenge. Aimed to improve diagnosis accuracy across diverse skin tones. </br>
  
 **Project Highlights:** </br>
@@ -58,7 +79,7 @@ The model successfully identified key features contributing to the happiness ind
 **Skills:** Deep Learning, Fairness in AI, Vision Transformers, EDA </br>
 **Tech:** Python, TensorFlow, Keras, EfficientNet, ResNet, Kaggle </br>
 
-**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+**Code:** Project Poster can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
 
 ## 3. Data Analysis in Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
