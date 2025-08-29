@@ -101,7 +101,7 @@ The model successfully identified key features contributing to the happiness ind
 - Found that higher screen time correlated strongly with higher addiction risk, though increased time didn’t always mean higher engagement.
 - Machine learning models (XGBoost and Random Forest) achieved strong predictive performance in identifying users at risk.
 
-**Project Report:** Project Report can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
+**Project Report:** Project Report can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/CSDS%20312%20Final%20Report.pdf)
 
 ## 3. Data Analysis in Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
