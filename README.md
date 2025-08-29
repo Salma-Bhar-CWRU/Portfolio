@@ -49,6 +49,19 @@ The model successfully identified key features contributing to the happiness ind
 **Code:** Project Github repo can be found [here.](https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI)
 
 ### Algorithmic Justice League Equitable AI for Dermatology
+**Description:** Built inclusive ML models for dermatology image classification as part of the Break Through Tech AI program and the Algorithmic Justice League x Kaggle Challenge. Aimed to improve diagnosis accuracy across diverse skin tones. </br>
+ 
+**Project Highlights:** </br>
+- Selected EfficientNetB3 as final model with ~94% test accuracy and macro F1 of 0.96.
+- Addressed algorithmic fairness using stratified validation and data balancing techniques.
+- Collaborated on CNN, ViT, and ResNet architectures to benchmark model performance.
+  
+**Skills:** Deep Learning, Fairness in AI, Vision Transformers, EDA </br>
+**Tech:** Python, TensorFlow, Keras, EfficientNet, ResNet, Kaggle </br>
+
+**Code:** Project Poster can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+
+### Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
 **Description:** This project explores Quantum Reinforcement Learning (QRL) by applying quantum variational circuits to the Multi-Armed Bandit (MAB) problem and extending to full reinforcement learning tasks such as CartPole and LunarLander. The goal was to investigate whether quantum methods can improve exploration efficiency, reduce trainable parameters, and achieve more stable convergence compared to classical reinforcement learning (RL). </br>
  
 **Project Highlights:** </br>
@@ -67,19 +80,6 @@ The model successfully identified key features contributing to the happiness ind
 - Showed strong promise for data-efficient decision-making despite current hardware limitations.
 
 **Code:** Project Github repo can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
-
-### Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
-**Description:** Built inclusive ML models for dermatology image classification as part of the Break Through Tech AI program and the Algorithmic Justice League x Kaggle Challenge. Aimed to improve diagnosis accuracy across diverse skin tones. </br>
- 
-**Project Highlights:** </br>
-- Selected EfficientNetB3 as final model with ~94% test accuracy and macro F1 of 0.96.
-- Addressed algorithmic fairness using stratified validation and data balancing techniques.
-- Collaborated on CNN, ViT, and ResNet architectures to benchmark model performance.
-  
-**Skills:** Deep Learning, Fairness in AI, Vision Transformers, EDA </br>
-**Tech:** Python, TensorFlow, Keras, EfficientNet, ResNet, Kaggle </br>
-
-**Code:** Project Poster can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
 
 ## 3. Data Analysis in Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
