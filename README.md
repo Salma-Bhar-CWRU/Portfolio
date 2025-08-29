@@ -59,7 +59,7 @@ The model successfully identified key features contributing to the happiness ind
 **Skills:** Deep Learning, Fairness in AI, Vision Transformers, EDA </br>
 **Tech:** Python, TensorFlow, Keras, EfficientNet, ResNet, Kaggle </br>
 
-**Code:** Project Poster can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
 
 ### Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
 **Description:** This project explores Quantum Reinforcement Learning (QRL) by applying quantum variational circuits to the Multi-Armed Bandit (MAB) problem and extending to full reinforcement learning tasks such as CartPole and LunarLander. The goal was to investigate whether quantum methods can improve exploration efficiency, reduce trainable parameters, and achieve more stable convergence compared to classical reinforcement learning (RL). </br>
@@ -79,13 +79,13 @@ The model successfully identified key features contributing to the happiness ind
 - QRL: fewer tunable parameters, stable convergence trends, parameter-efficient but with simulation overhead.
 - Showed strong promise for data-efficient decision-making despite current hardware limitations.
 
-**Code:** Project Github repo can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
+**Code:** Project Poster can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
 
 ## 3. Data Analysis in Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 
 **Undergraduate Researchers:** <br>
-Salma Bhar, B.S. Computer Science, CWRU <br>
+Salma Bhar, B.A. Computer Science, CWRU <br>
 Marina Kamperai, B.S. Chemical Engineering. CWRU <br>
 Shahib Prokhor, B.S. Biomedical Engineering, CWRU <br>
 <br>
