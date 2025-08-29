@@ -1,8 +1,8 @@
-# Salma Bhar Portfolio
+# Salma Bhar Projects Portfolio
 ## 1. Introduction
 Hello! My name is Salma Bhar (she/her). I am an international student from Tunisia and a senior pursuing a B.A. in Computer Science and Minors in Mathematics and Astronomy (because it's fun) at Case Western Reserve University, Cleveland OH. I also studied abroad at Universidad Carlos III in Madrid, Spain and I am a graduate of UWC ISAK Japan which is part of the United World Colleges movement.
 
-This is a repository to showcase skills, share projects and track my progress in Data Science and AI/ML related topics. I am aiming to start exploring the application of Computer Science in research projects.
+This is a place where I get to showcase skills, share projects and track my progress in Data Science and AI/ML related topics. I am aiming to start exploring the application of Computer Science in research projects.
 
 My LinkedIn: https://www.linkedin.com/in/salmabhar/
 
@@ -13,6 +13,7 @@ My LinkedIn: https://www.linkedin.com/in/salmabhar/
     - Detecting Objects in Autonomous Driving
     - Algorithmic Justice League Equitable AI for Dermatology
     - Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
+    - Demographic and Socioeconomic Factors in Social Media Addiction
 3. Data Science in Research Projects
     - A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
 4. Software Engineering
@@ -46,7 +47,7 @@ The model successfully identified key features contributing to the happiness ind
   - If enough computational resources are available, revisit our initial approach i.e. a FastBEV-based approach 
   - Expanding the method on multiple cameras instead of a single camera
 
-**Code:** Project Github repo can be found [here.](https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI)
+**Github Repo:** Project Github repo can be found [here.](https://github.com/natwoshoes/ObjectDetectionModel_LatitudeAI)
 
 ### Algorithmic Justice League Equitable AI for Dermatology
 **Description:** Built inclusive ML models for dermatology image classification as part of the Break Through Tech AI program and the Algorithmic Justice League x Kaggle Challenge. Aimed to improve diagnosis accuracy across diverse skin tones. </br>
@@ -59,7 +60,7 @@ The model successfully identified key features contributing to the happiness ind
 **Skills:** Deep Learning, Fairness in AI, Vision Transformers, EDA </br>
 **Tech:** Python, TensorFlow, Keras, EfficientNet, ResNet, Kaggle </br>
 
-**Code:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
+**Github Repo:** Project Github repo can be found [here](https://github.com/AJL-Team-Selenium/VIR-Team-Selenium)
 
 ### Quantum Reinforcement Learning for Multi-Armed Bandit and Control Tasks
 **Description:** This project explores Quantum Reinforcement Learning (QRL) by applying quantum variational circuits to the Multi-Armed Bandit (MAB) problem and extending to full reinforcement learning tasks such as CartPole and LunarLander. The goal was to investigate whether quantum methods can improve exploration efficiency, reduce trainable parameters, and achieve more stable convergence compared to classical reinforcement learning (RL). </br>
@@ -79,7 +80,28 @@ The model successfully identified key features contributing to the happiness ind
 - QRL: fewer tunable parameters, stable convergence trends, parameter-efficient but with simulation overhead.
 - Showed strong promise for data-efficient decision-making despite current hardware limitations.
 
-**Code:** Project Poster can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
+**Poster:** Project Poster can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
+
+### Demographic and Socioeconomic Factors in Social Media Addiction: Analyzing Behavioral Patterns and Influences
+**Description:** This project investigates how social media addiction varies across age, gender, and socioeconomic status. Using large-scale datasets from Kaggle, the study explored behavioral and psychological factors such as screen time, likes, posts, and feelings of loneliness, and their role in predicting addictive behaviors. The research highlights how algorithm-driven content, social validation, and socioeconomic disparities shape user behavior and contribute to digital dependency. </br>
+ 
+**Project Highlights:** </br>
+- Researched and merged two public datasets on social media usage and demographic factors.
+- Performed data cleaning, feature engineering, and outlier handling using Pandas and Scikit-learn.
+- Created engineered features such as Usage Hours, Usage Categories, and Age–Usage Interactions to capture behavioral dynamics.
+- Applied multiple machine learning models: Logistic Regression, Random Forest Classifier, and XGBoost.
+- Conducted exploratory data analysis (EDA) with histograms, boxplots, bar charts, and correlation heatmaps to uncover demographic and platform-specific patterns.
+  
+**Skills:** Data Cleaning, Feature Engineering, Exploratory Data Analysis, Machine Learning (Logistic Regression, Random Forest, XGBoost), Data Visualization, Statistical Analysis </br>
+**Tech:** Python, Pandas, Scikit-learn, XGBoost, Logistic Regression, Random Forest, Matplotlib, Kaggle </br>
+
+**Results:** 
+- Identified age (18–35) and gender (female) as significant predictors of higher addiction levels.
+- Instagram and Snapchat had the highest addiction scores, while LinkedIn showed the lowest.
+- Found that higher screen time correlated strongly with higher addiction risk, though increased time didn’t always mean higher engagement.
+- Machine learning models (XGBoost and Random Forest) achieved strong predictive performance in identifying users at risk.
+
+**Project Report:** Project Report can be found [here](https://github.com/Salma-Bhar-CWRU/Portfolio/blob/main/QCID%20386%20Final%20Poster.pptx.pdf)
 
 ## 3. Data Analysis in Research Projects
 ### Accelerated Degradation in Advanced Photovoltaic Cells: A Data-Driven Approach to Enhancing Solar Cell Longevity and Efficiency
@@ -118,4 +140,4 @@ Kristopher O. Davis, University of Central Florida <br>
 **Skills:** Full-Stack Dev, REST APIs, Authentication, Role-based UI </br>
 **Tech:** React, Node.js, Express, MySQL, JavaScript, HTML/CSS </br>
 
-**Code:** Project Github repo can be found [here](https://github.com/Salma-Bhar-CWRU/Snack-Overflow/tree/main)
+**Github Repo:** Project Github repo can be found [here](https://github.com/Salma-Bhar-CWRU/Snack-Overflow/tree/main)
